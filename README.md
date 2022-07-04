@@ -1,8 +1,8 @@
 # Consumo de alcohol en estudiantes
 ## English version coming soon
 ## Autores
-* ## Cesar Arcos: cesar99ag@gmail.com
-* ## Eduardo Ceja: lalitoceja@gmaill.com
+* ## Cesar Arcos: cesar99ag[@]gmail.com
+* ## Eduardo Ceja: lalitoceja[@]gmaill.com
 ## Licencia
 GNU General Public License v3.0
 ## Introducción
